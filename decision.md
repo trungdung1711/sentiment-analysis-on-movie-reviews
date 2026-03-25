@@ -3,8 +3,8 @@
 ```mermaid
 graph TD
 
-A[Exploratory] --> B[Baseline]
+A[EDA] --> B[Class distribution - Neural too many, but positive and negative is small]
 
-B --> C[I don't even know]
+B --> C[Imbalance]
 
 ```
