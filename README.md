@@ -14,6 +14,8 @@
 - Start installing packages and code yourself
 
 - 💀 Every decision (And why is it) should be added to `./decision.md` for references later on
+  
+- ✅ Remember to recreate the environment and freeze the conda after installing packages
 
 ## 🤷 References
 - [data](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews)
