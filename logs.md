@@ -5,3 +5,4 @@
 - 2026/04/12 - Dung Le - Simple Data cleaning
 - 2026/04/12 - Dung Le - Simple Feature Engineering with TF-IDF
 - 2024/04/12 - Dung Le - Baseline with Logisitic Regression
+- 2024/04/12 - Dung Le - Detect limitations of Logistic Regression, move to LSTM
